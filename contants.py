@@ -1,0 +1,2 @@
+DEBUG_MODE= False
+WEBSITE_MUST_TO_CRAWL = "https://bit.ly/33RJ4T8"
